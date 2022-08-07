@@ -1,5 +1,5 @@
-### Hi there 👋
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jeanluc-d)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeanluc-d)  
 <!--
 **jeanluc-d/jeanluc-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Jean-Luc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanluc-d&count_private=true&show_icons=true&hide=stars,,issues)
+![GitHub metrics](https://metrics.lecoq.io/jeanluc-d)  
 -->
