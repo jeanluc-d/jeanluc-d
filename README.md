@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Jean-Luc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanluc-d&count_private=true&show_icons=true&hide=stars,,issues)
 ![GitHub metrics](https://metrics.lecoq.io/jeanluc-d)  
+### Hi there 👋, I'm Jean-Luc
+<p>✌️ Pronouns: he/him<p/>
+<p>💻 Portfolio: https://jeanluc.dev<p/>
 -->
