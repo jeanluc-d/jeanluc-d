@@ -1,5 +1,5 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jeanluc-d)  
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeanluc-d)  
 <!--
 **jeanluc-d/jeanluc-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
