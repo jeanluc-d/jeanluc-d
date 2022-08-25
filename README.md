@@ -1,5 +1,5 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jeanluc-d)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeanluc-d)  
+
 <!--
 **jeanluc-d/jeanluc-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm Jean-Luc
 <p>✌️ Pronouns: he/him<p/>
 <p>💻 Portfolio: https://jeanluc.dev<p/>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeanluc-d)  
 -->
