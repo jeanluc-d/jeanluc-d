@@ -1,10 +1,9 @@
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jeanluc-d)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeanluc-d)  
+![Jean-Luc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanluc-d&count_private=true&show_icons=true&hide=stars,,issues)
 <!--
 **jeanluc-d/jeanluc-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jeanluc-d)  
 Here are some ideas to get you started:
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeanluc-d)  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
